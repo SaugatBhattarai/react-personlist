@@ -8,8 +8,8 @@ const App = () => {
 const PersonList = () => {
   const people = [
     { img: 22, name: "Saugat", job: "Developer" },
-    { img: 24, name: "John", job: "Designer" },
-    { img: 54, name: "Bob", job: "Artist" }
+    { img: 24, name: "Tilak", job: "Designer" },
+    { img: 54, name: "Manisha", job: "Artist" }
   ];
   // console.log("length ", people.length);
   return (
